@@ -9,6 +9,7 @@ dependencies:
   - seaborn
   - scikit-learn
   - rdkit
+  - shap
   - pip
   - pip:
       - xgboost
