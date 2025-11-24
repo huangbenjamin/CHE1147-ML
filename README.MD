@@ -14,7 +14,7 @@ conda activate eda-env
 ```
 
 ## Training and Analysis
-The EDA, model training, and analysis can be run using the code in the Jupyter Notebook (.ipynb) file.
+The EDA, model training, and analysis can be run using the code in the Jupyter Notebook file `ml_project_code.ipynb`.
 
 ## Group Members
 - Uyen Hua
